@@ -1,0 +1,41 @@
+# Python-Data-Structures-Guide
+Complete guide to Python data structures: lists, tuples, sets, dictionaries, and arrays with practical examples and explanations.........
+
+This repository contains detailed explanations and implementations of fundamental Python data structures. Each data structure includes:
+
+Clear explanations of concepts
+Code examples with comments
+Common operations and methods
+Time complexity analysis
+Practical use cases
+
+📊 Data Structures Covered
+1. Lists
+
+Mutable, ordered sequences
+Dynamic arrays that can store mixed data types
+Common operations: append, insert, remove, slice
+
+2. Tuples
+
+Immutable, ordered sequences
+Memory-efficient for fixed collections
+Common operations: indexing, slicing, unpacking
+
+3. Sets
+
+Unordered collections of unique elements
+Fast membership testing
+Common operations: union, intersection, difference
+
+4. Dictionaries
+
+Key-value pairs (hash maps)
+Fast lookups by key
+Common operations: add, update, delete, retrieve
+
+5. Arrays
+
+Homogeneous data collections (using array module)
+More memory-efficient than lists for numerical data
+Type-constrained elements
