@@ -1,0 +1,18 @@
+a={1,2,3,4}
+b={3,4,5,6}
+print("Union:",a|b)
+print("Intersection:",a&b)
+print("Difference (a-b):",a-b)
+print("Difference (b-a):",b-a)
+print("Symmetric Difference:",a^b)
+print("Is a subset of b?:",a<=b)
+print("Is a superset of b?:",a>=b)
+print("Are a and b disjoint?:",a.isdisjoint(b))
+print("Union using method:",a.union(b))
+print("Intersection using method:",a.intersection(b))
+print("Difference using method (a-b):",a.difference(b))
+print("Difference using method (b-a):",b.difference(a))
+print("Symmetric Difference using method:",a.symmetric_difference(b))
+print("Is a subset of b using method?:",a.issubset(b))
+print("Is a superset of b using method?:",a.issuperset(b))
+print("Are a and b disjoint using method?:",a.isdisjoint(b))
