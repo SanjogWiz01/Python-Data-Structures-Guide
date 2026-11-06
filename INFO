@@ -38,4 +38,4 @@ Common operations: add, update, delete, retrieve
 
 Homogeneous data collections (using array module)
 More memory-efficient than lists for numerical data
-Type-constrained elements
+Type-constrained elements.
